@@ -12,14 +12,14 @@ const education = [
     institution: 'City Montessori School',
     location: 'Lucknow, Uttar Pradesh',
     degree: 'Indian School Certificate Examination',
-    duration: '2018 - 2021',
+    duration: '2018 - 2019',
     gpa: '95%',
   },
   {
     institution: 'City Montessori School',
     location: 'Lucknow, Uttar Pradesh',
     degree: 'Indian Certificate of Secondary Education Examination',
-    duration: '2018 - 2021',
+    duration: '2020 - 2021',
     gpa: '92.8%',
   },
 ]
